@@ -52,4 +52,5 @@ for song in split_songs:
     print(song)
 
 
+os.remove("webpage.html")
 
